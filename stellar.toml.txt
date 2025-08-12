@@ -1,0 +1,11 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.0.0"
+
+[[CURRENCIES]]
+code="Bandcamp"
+issuer="GDS5YM2LKAG5Y5SN6Y2DZRGDFYJLATMYUIUMRGETVZ4JDGAYFGXGPRDQ"
+name="Bandcamp"
+desc="Bandcamp Token is a community-powered digital asset built on the Stellar network, designed to support and reward music creators and fans with fast, low-cost transactions worldwide."
+image="https://belwoodmusic.com/wp-content/uploads/2019/01/bandcamp.jpg"
+fixed_number=10000000
+display_decimals=2
